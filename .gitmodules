@@ -1,0 +1,3 @@
+[submodule "libaio"]
+	path = libaio
+	url = https://github.com/sailfishos-mirror/libaio.git
