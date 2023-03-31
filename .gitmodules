@@ -1,0 +1,3 @@
+[submodule "libaio"]
+	path = libaio
+	url = https://pagure.io/libaio.git
